@@ -1,0 +1,15 @@
+[
+  {
+    "question" : "What is the number of participants attending",
+    "placeholders":[
+      {
+        "name":"meeting_name",
+        "datatype": "str"
+      }
+    ]
+  },
+  {
+    "question":
+  }
+
+]
